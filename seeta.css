@@ -4,7 +4,7 @@ body
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     line-height: 1.6;
-background-image="st mses"
+background-image: url('stmses.jpg');
 }
 
 header {
@@ -184,3 +184,4 @@ h2 {
     color: white;
 }
 l
+
